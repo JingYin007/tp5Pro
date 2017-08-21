@@ -25,5 +25,5 @@ return [
         'model' => ['test'],
         'view' => ['index/index','order/index','order/test'],
     ],
-    
+
 ];
